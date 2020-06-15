@@ -15,8 +15,9 @@ There are 114 species of sharks, with also different routines. In general, shark
 
 ## So, what do I want to test?
 <hr>
+
 ![whale-shark-281498_1920](https://i.imgur.com/sAasebV.jpg)
-Well, we know that the frequency of these attacks is rare, but, ideed, even when it happens, they do not attack to death. And here is the first hypothesis I am going to test,
+Well, it is know that sharks rarely attack, but, ideed, even when it happens, they do not attack to death. And here is the first hypothesis I am going to test,
 
 Secondly, it has been reported that most victims of shark attacks were engaged in activities such as surfing, water skiing and boating, so I want to test whether the injuries that result from these attacks were mainly on lower limbs
 
