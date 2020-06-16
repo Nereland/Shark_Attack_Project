@@ -3,7 +3,7 @@
 ## THE PURPOSE
 <hr>
 
-This project has a double objective. The first one to use this nice project as a learning tool to apply my knowledge on cleaning data from a database by using pandas, using functions and different types of charts. 
+This project has a double objective. The first one is to use this nice project as a learning tool to apply my knowledge on cleaning data from a database by using pandas, using functions and different types of charts. 
 
 The second one is to test some hypothesis on sharks behaviour, and mainly on attacks to humans, to, hopefully, help to confront some common prejudices, as we will see.
 ![sea-2151026_1920](https://i.imgur.com/urwttMO.jpg)
@@ -40,8 +40,9 @@ By talking a lot with my collegues and teachers from Ironhack data analyst bootc
 <hr>
 Most shark attacks occur in the EEUU and Australia being the 37% and the 21% respectively, where water sports are frequent and also where human and shark boundaries may be less defined.
 
-The conclusions of this study shed light on two main issues, the first one is that, indeed, Fatal attacks count only for the 23.3% of the total amount of attacks, meaning that a 76.7% of the victims survived... so, they are not such aggresive animals and, I suggest that these attacks could be related to two main factors. 
-On the one hand, starving periods may make sharks move from their traditional habitat to approach coastlines and, eventually, they may attack a human, but this is extremely rare as human beings are not easy preys and their own life get in risk. On the other had, humans are extremely invasive, and thus we invade other beings habitat. One hypothesis that has been drawn is that when sharks attack a human in doing water sports, it is likely to be due to a case of mistaken identity, pointing out the similarity in shape between a sufboard and a seal...
+The conclusions of this study shed light on two main issues, the first one is that, indeed, Fatal attacks count only for the 23.3% of the total amount of attacks, meaning that a 76.7% of the victims survived... so, they are not such aggresive animals. The second one is that I suggest that these attacks could be related to two main factors: 
+- The first one is that starving periods may force sharks to move from their traditional habitat to approach coastlines. For this reason, they may eventually attack a human, but this is extremely rare as human beings are not easy preys and their own life get in risk.
+- Second, humans are extremely invasive, and thus we invade other beings habitat. One hypothesis that has been drawn is that when sharks attack a human in doing water sports, it is likely to be due to a case of mistaken identity, pointing out the similarity in shape between a sufboard and a seal...
 Let's face it, we do not provide such a great meal for the risk it takes.
 
 ![lance-anderson-_MJKaRig1Ic-unsplash](https://i.imgur.com/nAryitt.jpg)
