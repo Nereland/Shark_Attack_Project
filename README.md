@@ -3,23 +3,27 @@
 ## THE PURPOSE
 <hr>
 
-This project has a double objective. The first one is to use this nice project as a learning tool to apply my knowledge on cleaning data from a database by using pandas, using functions and different types of charts. 
+This project has a double objective. The first one is gain experience cleaning datasets by using pandas, functions and different types of charts. 
 
-The second one is to test some hypothesis on sharks behaviour, and mainly on attacks to humans, to, hopefully, help to confront some common prejudices, as we will see.
+The second one is to test some hypothesis on sharks' behaviour, mainly related to attacks to humans, to, hopefully, help to confront some current and past common prejudices, as we will see.
 ![sea-2151026_1920](https://i.imgur.com/urwttMO.jpg)
 ### Sharks behaviour: feeding and attacks to humans on a nutshell 
 <hr>
-Sharks have a very bad reputation, they are widely known by their attacks to humans, but little is known about their social behaviour.
+Sharks have a very bad reputation, they are widely known by their attacks to humans, however,  little is known about their social behaviour.
 
-There are 114 species of sharks, with also different routines. In general, sharks form large groups, are sociable animals and show cooperative behaviours, they fish and eat also other animals. But humans are not they prefered food, they avoid human contact as much as they can but still, some attacks to humans have been historically recorded.  
+There are 114 species of sharks, with also different routines. In general, sharks form large groups, are sociable animals and show cooperative behaviours, they fish and also eat other type of animals yet humans are not they prefered food. 
+
+For good reasons, sharks avoid avoid human contact as much as they can but still, some impressive and dramatic attacks have been historically reported and described,  here we will try to understand and contextualize these cases. 
 
 ## So, what do I want to test?
 <hr>
 
 ![whale-shark-281498_1920](https://i.imgur.com/sAasebV.jpg)
-Well, it is know that sharks rarely attack, but, ideed, even when it happens, they do not attack to death. And here is the first hypothesis I am going to test,
+Well, it is know that sharks rarely attack, but, ideed, even when it happens, they do not attack to death. And here is the first hypothesis I am going to test: 
+- Fatal attacks do not occur so frequently, being survival rate higher that death rate.
 
-Secondly, it has been reported that most victims of shark attacks were engaged in activities such as surfing, water skiing and boating, so I want to test whether the injuries that result from these attacks were mainly on lower limbs
+Secondly, I believe that most attacks are due to a confussion of the prey type. So, given that it has been reported that most victims of shark attacks were engaged in activities such as surfing, water skiing and boating, I want to test: 
+- whether the injuries that result from these attacks were mainly on lower limbs
 
 ## And how?
 <hr>
@@ -34,7 +38,7 @@ I used a very helpfull and rich graphing library, plotly that I would love to ex
 
 I applied functions created by myself, and that you will find in the Operations.py file.
 
-By talking a lot with my collegues and teachers from Ironhack data analyst bootcamp.
+I also talked a lot with my collegues and teachers from Ironhack data analytics bootcamp.
 
 ## The conclusions of this descriptive analysis.
 <hr>
